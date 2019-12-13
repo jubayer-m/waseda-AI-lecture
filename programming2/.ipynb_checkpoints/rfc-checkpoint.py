@@ -17,8 +17,6 @@ class RandomForestClassifier:
     # Y: training outputs -- np.ndarray
     #      (shape: [# of data points])
     def fit(self, X, Y):
-        
-        for ii in range():
         # TODO: IMPLEMENT ME
         pass
 
